@@ -197,7 +197,7 @@ body {
 #navigation ul.hydrogeo a.hydrogeo::after,
 #navigation ul.poget a.hydrogeo::after,
 #navigation ul.viridis a.hydrogeo::after {
-    content: 'HydroGéo';
+    content: 'Hydro-Géo';
 }
 
 /* Poget link */
